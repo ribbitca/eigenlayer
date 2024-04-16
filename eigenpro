@@ -1,7 +1,7 @@
 {
   "name": "EigenPro",
   "website": "https://www.staking4all.org/",
-  "description": "We have been running validator nodes since 2018 and participated in many networks that include Polygon, Polkadot, Near, Celestia and many more. ETH specific networks include ETH, DVT technology with Obol, SSV and Lido. We are a verified Staking Provider which factors in things like a provider’s security measures, track record of performance, and business operations. Staking Rewards’ Verification Criteria ensure that providers meet high standards in these areas, giving delegators peace of mind when choosing where to stake their assets.",
+  "description": "We have been running validator nodes since 2018 and participated in many networks that include Polygon, Polkadot, Near, Celestia and many more. ETH specific networks include ETH, DVT technology with Obol, SSV and Lido. We are a verified Staking Provider which factors in things like a provider’s security measures, track record of performance, and business operations.",
   "logo": "https://raw.githubusercontent.com/ribbitca/eigenlayer/main/eigenpro.png",
   "twitter": ""
 }
